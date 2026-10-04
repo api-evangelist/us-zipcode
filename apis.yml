@@ -39,7 +39,6 @@ apis:
   - name: US ZipCode
     description: "Validate and append data for any US ZipCode"
     humanURL: https://www.smarty.com/docs/cloud/us-zipcode-api
-    baseURL: https://www.smarty.com/docs/cloud/us-zipcode-api
     tags:
       - Geocoding
     properties:
